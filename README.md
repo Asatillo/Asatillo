@@ -32,12 +32,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-- 🔭 I’m currently working on GitHub portfolio
+- 🔭 I’m currently working on my GitHub
 - 🌱 I’m currently learning Spring Boot
 - 👯 I’m looking to collaborate on backend development
 - ⚡ Fun fact: I sneeze when I look up the sun
