@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Asat and I'm a software developer from Samarkand.<br>Currently in Budapest, Hungary.</h2>
+<h2 align="left">Hi 👋! It is Asat and I'm a software developer from Samarkand.<br>Currently in Budapest, Hungary.</h2>
 
 ###
 
@@ -33,6 +33,6 @@
 ###
 
 - 🔭 I’m currently working on my GitHub
-- 🌱 I’m currently learning Spring Boot
+- 🌱 I’m currently learning Fullstack development
 - 👯 I’m looking to collaborate on backend development
 - ⚡ Fun fact: I sneeze when I look up the sun
