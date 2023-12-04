@@ -32,7 +32,7 @@
 
 ###
 
-- 🔭 I’m currently working on my GitHub
-- 🌱 I’m currently learning Fullstack development
-- 👯 I’m looking to collaborate on backend development
+- 🔭 I’m currently working on my thesis project
+- 🌱 I’m currently learning microservices and everything around them
+- 👯 I’m looking to collaborate on anything
 - ⚡ Fun fact: I sneeze when I look up the sun
