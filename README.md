@@ -36,7 +36,7 @@
 
 ###
 
-- 🔭 I’m currently working on my thesis project
-- 🌱 I’m currently learning microservices and everything around them
+- 🔭 I’m currently developing SaaS projects
+- 🌱 I’m currently learning microservices, web dev and everything around them
 - 👯 I’m looking to collaborate on anything
 - ⚡ Fun fact: I sneeze when I look up the sun
